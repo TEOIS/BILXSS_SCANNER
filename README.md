@@ -1,5 +1,7 @@
 WAF detection capabilities as well. It also scans for DOM XSS vulnerabilities.
 
+
+
 ### Main Features
 - Reflected and DOM XSS scanning
 - Multi-threaded crawling
@@ -16,7 +18,10 @@ WAF detection capabilities as well. It also scans for DOM XSS vulnerabilities.
 - Bruteforce payloads from a file
 - Powered by [BILAL ALI] YOUNGEST CERTIFIED ETHICAL HACKER 
 - Payload Encoding
-
+✔️ ✔️
+Usage
+bash open.sh
+..
 ### Contribution, Credits & License
 Ways to contribute
 - Suggest a feature
